@@ -1,1 +1,1 @@
-Cambio desde rama1
+Cambios fusionados de rama1 y rama2
